@@ -1,5 +1,5 @@
 # java-school-projects
-tp4 TP Vente Voitures
+tp4 Vente Voitures
 
 tp5 Gestion des appels
 
